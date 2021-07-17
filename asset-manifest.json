@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/face-landmark-detection/static/css/main.a617e044.chunk.css",
+    "main.js": "/face-landmark-detection/static/js/main.e0b5bda8.chunk.js",
+    "main.js.map": "/face-landmark-detection/static/js/main.e0b5bda8.chunk.js.map",
+    "runtime-main.js": "/face-landmark-detection/static/js/runtime-main.113aa0df.js",
+    "runtime-main.js.map": "/face-landmark-detection/static/js/runtime-main.113aa0df.js.map",
+    "static/js/2.a44dba0b.chunk.js": "/face-landmark-detection/static/js/2.a44dba0b.chunk.js",
+    "static/js/2.a44dba0b.chunk.js.map": "/face-landmark-detection/static/js/2.a44dba0b.chunk.js.map",
+    "static/js/3.511a0fc0.chunk.js": "/face-landmark-detection/static/js/3.511a0fc0.chunk.js",
+    "static/js/3.511a0fc0.chunk.js.map": "/face-landmark-detection/static/js/3.511a0fc0.chunk.js.map",
+    "index.html": "/face-landmark-detection/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/face-landmark-detection/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a44dba0b.chunk.js.LICENSE.txt": "/face-landmark-detection/static/js/2.a44dba0b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.113aa0df.js",
+    "static/js/2.a44dba0b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.e0b5bda8.chunk.js"
+  ]
+}
